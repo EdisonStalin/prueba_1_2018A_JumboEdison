@@ -1,0 +1,1 @@
+la nueva cadena es=[8, 0, 0]

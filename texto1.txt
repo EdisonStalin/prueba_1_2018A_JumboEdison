@@ -1,0 +1,1 @@
+el binario ingresado es: =[8, 0, 0]
